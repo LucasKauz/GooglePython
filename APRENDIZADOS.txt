@@ -1,0 +1,5 @@
+    Para declarara uma função utiliza-se DEF ou seja, [[ DEF name(data) ]] é o mesmo que [[ function name(data) ]]
+
+    Os 'includes' são módulos, e são chamados com import, alguns métodos padrão estão no pacote inicial, por exemplo: sys, os ou re para expressões regulares
+
+    Não utiliza-se ';' ou '{}', portando o uso de identação é primordial em todos os aspectos.
