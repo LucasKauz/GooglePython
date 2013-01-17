@@ -1,5 +1,17 @@
-    Para declarara uma função utiliza-se DEF ou seja, [[ DEF name(data) ]] é o mesmo que [[ function name(data) ]]
+    O Python identifica erros apenas quando é interpretado a parte específica com falha no código, ou seja, se há uma função inexistente ela só apontará erro quando tentar ser executada 
+
+    Para declarar uma função utiliza-se DEF ou seja, [[ DEF name(data) ]] é o mesmo que [[ function name(data) ]]
 
     Os 'includes' são módulos, e são chamados com import, alguns métodos padrão estão no pacote inicial, por exemplo: sys, os ou re para expressões regulares
 
     Não utiliza-se ';' ou '{}', portando o uso de identação é primordial em todos os aspectos.
+
+----
+
+    Você pode escapar strings tanto em aspas simples quanto duplas
+
+    Não existe ++ nem -- porém há += e -=
+
+    Split equivale a explode, Join a implode
+
+    Funções rodam no objeto, ex var.uppercase(), assim como jquery
